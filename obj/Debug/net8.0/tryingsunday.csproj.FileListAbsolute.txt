@@ -1,0 +1,15 @@
+C:\Users\timus\OneDrive\Desktop\kokotna\tryingsunday\bin\Debug\net8.0\tryingsunday.exe
+C:\Users\timus\OneDrive\Desktop\kokotna\tryingsunday\bin\Debug\net8.0\tryingsunday.deps.json
+C:\Users\timus\OneDrive\Desktop\kokotna\tryingsunday\bin\Debug\net8.0\tryingsunday.runtimeconfig.json
+C:\Users\timus\OneDrive\Desktop\kokotna\tryingsunday\bin\Debug\net8.0\tryingsunday.dll
+C:\Users\timus\OneDrive\Desktop\kokotna\tryingsunday\bin\Debug\net8.0\tryingsunday.pdb
+C:\Users\timus\OneDrive\Desktop\kokotna\tryingsunday\obj\Debug\net8.0\tryingsunday.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\timus\OneDrive\Desktop\kokotna\tryingsunday\obj\Debug\net8.0\tryingsunday.AssemblyInfoInputs.cache
+C:\Users\timus\OneDrive\Desktop\kokotna\tryingsunday\obj\Debug\net8.0\tryingsunday.AssemblyInfo.cs
+C:\Users\timus\OneDrive\Desktop\kokotna\tryingsunday\obj\Debug\net8.0\tryingsunday.csproj.CoreCompileInputs.cache
+C:\Users\timus\OneDrive\Desktop\kokotna\tryingsunday\obj\Debug\net8.0\tryingsunday.sourcelink.json
+C:\Users\timus\OneDrive\Desktop\kokotna\tryingsunday\obj\Debug\net8.0\tryingsunday.dll
+C:\Users\timus\OneDrive\Desktop\kokotna\tryingsunday\obj\Debug\net8.0\refint\tryingsunday.dll
+C:\Users\timus\OneDrive\Desktop\kokotna\tryingsunday\obj\Debug\net8.0\tryingsunday.pdb
+C:\Users\timus\OneDrive\Desktop\kokotna\tryingsunday\obj\Debug\net8.0\tryingsunday.genruntimeconfig.cache
+C:\Users\timus\OneDrive\Desktop\kokotna\tryingsunday\obj\Debug\net8.0\ref\tryingsunday.dll
